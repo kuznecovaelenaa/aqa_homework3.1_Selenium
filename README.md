@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/bhqy9dlktdlhbclp?svg=true)](https://ci.appveyor.com/project/kuznecovaelenaa/aqa-homework3-1)
+[![Build status](https://ci.appveyor.com/api/projects/status/8iftcnr39qw74hid?svg=true)](https://ci.appveyor.com/project/kuznecovaelenaa/aqa-homework3-1-selenium)
